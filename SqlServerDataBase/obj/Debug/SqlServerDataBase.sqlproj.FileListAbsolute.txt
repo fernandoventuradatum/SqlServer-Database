@@ -1,0 +1,6 @@
+C:\Users\Datum-Redsoft\Documents\AzureDevOps Pipelines Curse Udemy\SqlServerDataBase\SqlServerDataBase\bin\Debug\SqlServerDataBase.dacpac
+C:\Users\Datum-Redsoft\Documents\AzureDevOps Pipelines Curse Udemy\SqlServerDataBase\SqlServerDataBase\bin\Debug\SqlServerDataBase.dll
+C:\Users\Datum-Redsoft\Documents\AzureDevOps Pipelines Curse Udemy\SqlServerDataBase\SqlServerDataBase\bin\Debug\SqlServerDataBase.pdb
+C:\Users\Datum-Redsoft\Documents\AzureDevOps Pipelines Curse Udemy\SqlServerDataBase\SqlServerDataBase\obj\Debug\SqlServerDataBase.sqlprojAssemblyReference.cache
+C:\Users\Datum-Redsoft\Documents\AzureDevOps Pipelines Curse Udemy\SqlServerDataBase\SqlServerDataBase\obj\Debug\SqlServerDataBase.dll
+C:\Users\Datum-Redsoft\Documents\AzureDevOps Pipelines Curse Udemy\SqlServerDataBase\SqlServerDataBase\obj\Debug\SqlServerDataBase.pdb
